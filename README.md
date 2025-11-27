@@ -22,3 +22,7 @@ Python | TensorFlow/Keras | Pandas | NumPy | Scikit-Learn | Flask | Power BI
 pip install -r requirements.txt
 python app.py
 
+Dataset
+
+Amazon product review dataset
+
